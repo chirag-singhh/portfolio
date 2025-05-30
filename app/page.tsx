@@ -1,4 +1,4 @@
-import { Approach } from "@/components/approach";
+// import { Approach } from "@/components/approach";
 import { Clients } from "@/components/clients";
 import { Experience } from "@/components/experience";
 import { Footer } from "@/components/footer";
@@ -8,7 +8,7 @@ import { FloatingNav } from "@/components/ui/floating-nav";
 import { RecentProjects } from "@/components/recent-projects";
 import { navItems } from "@/data";
 import { HeroScrollDemo } from "@/components/Hero-scroll";
-import { MacbookScroll } from "@/components/ui/macbook-scroll";
+// import { MacbookScroll } from "@/components/ui/macbook-scroll";
 
 const MainPage = () => {
   return (
